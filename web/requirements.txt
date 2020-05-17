@@ -5,7 +5,7 @@
 #    pip-compile
 #
 click==7.1.2              # via flask
-flask==0.12.3             # via -r requirements.in
+flask==1.1.2              # via -r requirements.in
 itsdangerous==1.1.0       # via flask
 jinja2==2.11.2            # via flask
 markupsafe==1.1.1         # via jinja2
